@@ -85,7 +85,7 @@ namespace YTG.CSVtoGPX
 
                 Models.GPX.gpx _gpx = new Models.GPX.gpx();
                 _gpx.author = "Yasgar Technology Group Inc.";
-                _gpx.desc = "Custom GPX file made for Jack";
+                _gpx.desc = "https://github.com/YTGI/YTG-CSVtoGPX.git";
                 _gpx.name = this.FilePath;
                 _gpx.time = DateTime.UtcNow.ToString("yyyy-MM-ddThh:mm:ssZ");
                 _gpx.creator = "YTGI";
