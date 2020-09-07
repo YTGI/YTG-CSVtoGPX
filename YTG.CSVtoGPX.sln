@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YTG.CSVtoGPX", "YTG.CSVtoGPX\YTG.CSVtoGPX.csproj", "{C417C5D6-3CE8-4B83-ACEC-445687ED7765}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Files", "Solution Files", "{45870ED6-02A3-4D5D-8A99-76DB8746330B}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		ReadMe.MD = ReadMe.MD
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C417C5D6-3CE8-4B83-ACEC-445687ED7765}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C417C5D6-3CE8-4B83-ACEC-445687ED7765}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C417C5D6-3CE8-4B83-ACEC-445687ED7765}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C417C5D6-3CE8-4B83-ACEC-445687ED7765}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AF1C9C6-B604-4BB8-9AF5-C3157997BE0F}
+	EndGlobalSection
+EndGlobal
